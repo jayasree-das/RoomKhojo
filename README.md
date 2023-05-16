@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with Create React App. It is a MERN stack (MongoDb,Express,React,NodeJs) project. Antd was used to design the date selection process. Many more facilities are yet to be added to this project like the payment gateway , admin panel etc.
+
+You can register yourself and login to book your room. View the details of any room, select your date of stay and book your room.
+
 
 ## Available Scripts
 
